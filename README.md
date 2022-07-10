@@ -1,2 +1,492 @@
-# GruasMR
-pagina de MRGrúas
+<!DOCTYPE html>
+<html lang="en">
+<!-- Basic -->
+<meta name="google-site-verification" content="pluw2IV4uoXISBL-WEfwtmxWkogYzlF52U9XQQoKR-Y" />
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <!-- Mobile Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+    <!-- Site Metas -->
+    <title>Bienvenido a MRGrúas</title>
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Site Icons -->
+    <link rel="shortcut icon" href="images/logo-ico.png" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="#" />
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <!-- Pogo Slider CSS -->
+    <link rel="stylesheet" href="css/pogo-slider.min.css" />
+    <!-- Site CSS -->
+    <link rel="stylesheet" href="css/style.css" />
+    <!-- Responsive CSS -->
+    <link rel="stylesheet" href="css/responsive.css" />
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/custom.css" />
+    <!-- Slick -->
+    <link rel="stylesheet" href="css/slick.css"/>
+
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body id="index" data-spy="scroll" data-target="#navbar-wd" data-offset="98">
+
+    <!-- LOADER -->
+    <div id="preloader">
+        <div class="loader">
+            <img src="images/loader.gif" alt="#" />
+        </div>
+    </div>
+    <!-- end loader -->
+    <!-- END LOADER -->
+
+    <!-- Start header -->
+    <header class="top-header">
+        <div class="header_top">
+            
+            <div class="container">
+                <div class="row">
+                    <div class="logo_section">
+                        <a class="navbar-brand" href="index.html"><img src="images/LOGO TRANSPARENTE.png" alt="image" width="250"></a>
+                    </div>
+                    <div class="site_information">
+                        <ul class="menu-arriba">
+                            <li>
+                                <a href="mailto:gruasmartinezreyes@hotmail.com">
+                                    <!--<img src="images/mail_icon.png" alt="#" />gruasmartinezreyes@hotmail.com-->
+                                    <i class="fa fa-envelope-o icono" aria-hidden="true"></i>
+                                    gruasmartinezreyes@hotmail.com
+                                </a>
+                            </a>
+                            </li>
+                            <li>
+                                <a href="tel:528110775852">
+                                    <!--<img src="images/phone_icon.png" alt="#" />+528110775852-->
+                                    <i class="fa fa-mobile icono" aria-hidden="true"></i>
+                                    +528110775852
+                                </a>
+                            </li>
+                            
+                            <li>
+                                <a href="https://www.instagram.com/maquinariasMRGrúas/">
+                                    <i class="fa fa-instagram icono" aria-hidden="true"></i>
+                                 </a>
+                                 <a href="https://www.facebook.com/mrgruas">
+                                    <i class="fa fa-facebook-official icono" aria-hidden="true"></i>
+                                </a>
+                            </li>
+                            <!--<li><a class="join_bt" href="#">Join us</a></li>-->
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+            
+            
+        <div class="header_bottom">
+            <div class="container">
+                <div class="col-sm-12">
+                  <div class="menu_orange_section" style="background: #ff0000;">
+                   <nav class="navbar header-nav navbar-expand-lg"> 
+                     <div class="menu_section">
+                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-wd" aria-controls="navbar-wd" aria-expanded="false" aria-label="Toggle navigation">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+                <div class="collapse navbar-collapse justify-content-end" id="navbar-wd">
+                    <ul class="navbar-nav">
+                        <li><a class="nav-link active" href="index.html">Inicio</a></li>
+                        <li><a class="nav-link" href="soliciyud.html">Servicios</a></li>                   
+                        <li><a class="nav-link" href="about.html">Quienes Somos</a></li>
+                        <li><a class="nav-link" href="#contacto">Contacto</a></li>
+                        <li><a class="nav-link" href="gruas.html">Grúas</a></li>
+                    </ul>
+                    </ul>
+                </div>
+                     </div>
+                 </nav>
+                </div>
+            </div>
+          </div>
+        </div>
+        
+    </header>
+     <!-- End header -->
+
+
+    
+
+      <!-- Start Banner -->
+      <div class="ulockd-home-slider">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="pogoSlider" id="js-main-slider">
+
+                    <div class="pogoSlider-slide" style="background-image:url(images/slide-ejem-6.png);">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <div class="slide_text white_fonts">
+                                        <h3>Servicio de<br><strong>Asistencia vial</strong></h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="pogoSlider-slide" style="background-image:url(images/collage-04.jpg); background-position: center;">
+                    </div>
+
+                </div>
+                <!-- .pogoSlider -->
+            </div>
+        </div>
+    </div>
+    <!-- End Banner -->
+    
+
+
+    <!-- section -->
+    <div class="section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="full text_align_right_img">
+                        <img src="images/img-1.jpg" alt="#" />
+                    </div>
+                </div>
+                <div class="col-md-6 layout_padding">
+                    <div class="full paddding_left_15">
+                        <div class="heading_main text_align_left">
+						   <h2><span class="theme_color">Bienvenido a</span> MRGrúas</h2>	
+                        </div>
+                    </div>
+                    <div class="full paddding_left_15">
+                        <p>MRGrúas brinda Servicios de asistencia vial en todo Nuevo Leon.
+
+                           La empresa se convierte en un socio estratégico para sus clientes y colaboradores, al tener como prioridad superar las expectativas en cuanto la calidad del servicio, cumplimiento de tiempo establecido y el trato al usuario. Proporcionando Servicios de asistencia vehicular tal como el traslado, resguardo y reabastecimiento de combustible, cambio de llantas y pase de corriente.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+	<!-- End Banner -->
+    <!-- section -->
+    <div class="section layout_padding">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="full">
+                        <div class="heading_main text_align_center">
+                           <h2><span class="theme_color"></span>Asistencia Vial</h2>  
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6 col-sm-6 col-xs-12">
+                    <div class="full Servicios_blog">
+                        <a href="gruas.html">
+                           <img class="img-responsive" src="images/horquillas.png" alt="#" />
+                          <h4>Servicio de Grúa</h4>
+                          <center> <a class="mbr-section-btn align-center"><a class="btn btn-primary display-4" href="https://api.whatsapp.com/send?phone==+528110775852&text=Solicito%20servicio%20de%20Grua%20.&source=&data=&app_absent=" target="_blank"><span class="mobi-mbri mobi-mbri-user-2 mbr-iconfont mbr-iconfont-btn"></span>Servicio de Grúas</a></div></center>
+                         </a>
+                
+                </div>   
+                <div class="col-md-6 col-sm-6 col-xs-12">
+                     <div class="full Servicios_blog">
+                        <a href="elevadora.html">
+                        <img class="img-responsive" src="images/elevadora.jpg" alt="#" />
+                        <h4>Solicitar Taxi</h4>
+                       <center> <a class="btn btn-secondary display-4" href="https://api.whatsapp.com/send?phone==+528110775852&text=Requiero%20servicio%20de%20taxi%20en%20esta%20ubicacion.&source=&data=&app_absent=" target="_blank"><span class="mbri-map-pin mbr-iconfont mbr-iconfont-btn"></span>Solicitar taxi</a></div>  </center>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <section class="mbr-section content8 cid-sez8OQC6PJ" id="content8-c"></section>
+    </section>
+
+
+    <!-- end section -->
+  
+   
+    <!-- section --> 
+    <div class="section layout_padding">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="full">
+                        <div class="heading_main text_align_center">
+                           <h2><span class="theme_color"></span>Confían en nosotros</h2>  
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+               <div class="container">
+                <section class="customer-logos slider">
+                    <div class="slide">
+                        <img src="images/agrofarming.png">
+                    </div>
+                    <div class="slide">
+                        <img src="images/guillaume.png">
+                    </div>
+                    <div class="slide">
+                        <img src="images/rentokill.png">
+                    </div>
+                    <div class="slide">
+                        <img src="images/lapopular.jpg">
+                    </div>
+                    <div class="slide">
+                        <img src="images/prat.png">
+                    </div>
+                </section>
+
+               </div>
+            </div>
+        </div>
+    </div>
+    <!-- end section -->
+                                                    
+    
+    <center><div class="map-responsive"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3570.24864713655!2d-100.00955528521156!3d26.51212648389281!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86623772c3be2491%3A0x19eff24290a4fd31!2sM.R.%20Gr%C3%BAas!5e0!3m2!1ses-419!2smx!4v1657053972673!5m2!1ses-419!2smx" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div></center>
+        <!-- Start Footer -->
+     <footer class="footer-box">
+        <div class="container">
+          <div class="row">
+              <div class="col-md-12 white_fonts">
+                <div class="row">
+                    <div class="col-sm-6 col-md-6 col-lg-3">
+                        <div class="full">
+                            <img class="img-responsive" src="images/logo-png-2.png" alt="#" width="250" />
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-6 col-lg-3">
+                        <div class="full">
+                     <h3>Links</h3>
+                        <ul class="navbar-nav">
+                            <li><a class="nav-link active" href="index.html">Inicio</a></li>
+                            <li><a class="nav-link" href="soliciyud.html">Servicios</a></li>                   
+                            <li><a class="nav-link" href="about.html">Quienes Somos</a></li>
+                            <li><a class="nav-link" href="#contacto">Contacto</a></li>
+                            <li><a class="nav-link" href="gruas.html">Grúas</a></li>
+                        </ul>
+                        </ul>
+                        </div>
+                    </div>
+   </center>
+                    <div class="col-sm-12 col-md-12 col-lg-6">
+                        <div class="full">
+                            <div class="footer_blog full white_fonts">
+                         <h3>Contacto</h3>
+                             <ul class="full menu-abajo">
+                               <li><img src="images/i5.png"><span>México 85D, Autopista Monterrey - Nuevo Laredo<br> Sabinas Hidalgo, N.L., México</span></li>
+                               <li><img src="images/i6.png"><span>gruasmartinezreyes@hotmail.com</span></li>
+                               <li><img src="images/i7.png"><span>+528110775852</span></li>
+                               <li>
+                                    <a href="https://www.instagram.com/mrgruas/">
+                                        <i class="fa fa-instagram" aria-hidden="true"></i>
+                                    </a>
+                                    <a href="https://www.facebook.com/mrgruas">
+                                        <i class="fa fa-facebook-official" aria-hidden="true"></i>
+                                    </a>
+                                </li>
+                             </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+         </div>
+     </div>
+      </footer>
+       <!-- End Footer -->
+
+
+
+
+    <div class="footer_bottom">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <p class="crp">© Copyrights 2022. Desarrollado por IMR.</p>
+                </div>
+              </div>
+            </div>
+        </div>
+
+        <a href="#" id="scroll-to-top" class="hvr-radial-out"><i class="fa fa-angle-up"></i></a>
+
+      
+  
+    <script src="js/jquery.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="web/assets/jquery/jquery.min.js"></script>
+    <script src="assets/popper/popper.min.js"></script>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="assets/tether/tether.min.js"></script>
+    <script src="assets/smoothscroll/smooth-scroll.js"></script>
+    <script src="assets/dropdown/js/nav-dropdown.js"></script>
+    <script src="assets/dropdown/js/navbar-dropdown.js"></script>
+    <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>
+    <script src="assets/viewportchecker/jquery.viewportchecker.js"></script>
+    <script src="assets/theme/js/script.js"></script>
+      
+<!-- ALL PLUGINS -->
+    <script src="js/jquery.magnific-popup.min.js"></script>
+    <script src="css/pogo-slider.min.css"></script>
+    <script src="js/slider-index.js"></script>
+    <script src="js/smoothscroll.js"></script>
+    <script src="js/form-validator.min.js"></script>
+    <script src="js/contact-form-script.js"></script>
+    <script src="js/isotope.min.js"></script>
+    <script src="js/images-loded.min.js"></script>
+    <script src="js/custom.js"></script>
+    <script src="js/slick.min.js"></script>
+    <script src="js/jquery.min.js"></script>
+	<script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.magnific-popup.min.js"></script>
+    <script src="js/jquery.pogo-slider.min.js"></script>
+    <script src="js/slider-index.js"></script>
+    <script src="js/smoothscroll.js"></script>
+    <script src="js/form-validator.min.js"></script>
+    <script src="js/contact-form-script.js"></script>
+    <script src="js/isotope.min.js"></script>
+    <script src="js/images-loded.min.js"></script>
+    <script src="js/custom.js"></script>
+    <script src="js/jquery.magnific-popup.min.js"></script>
+    <script src="js/grúa/jquery.pogo-slider.min.js"></script>
+    <script src="js/slider-index.js"></script>
+    <script src="js/smoothscroll.js"></script>
+    <script src="js/form-validator.min.js"></script>
+    <script src="js/contact-form-script.js"></script>
+    <script src="js/isotope.min.js"></script>
+    <script src="js/images-loded.min.js"></script>
+    <script src="js/custom.js"></script>
+    <script src="js/slick.min.js"></script>
+    <script src="js/main.js"></script>
+  
+        <script>    
+    /* counter js */
+    
+    (function ($) {
+        $.fn.countTo = function (options) {
+            options = options || {};
+            
+            return $(this).each(function () {
+                // set options for current element
+                var settings = $.extend({}, $.fn.countTo.defaults, {
+                    from:            $(this).data('from'),
+                    to:              $(this).data('to'),
+                    speed:           $(this).data('speed'),
+                    refreshInterval: $(this).data('refresh-interval'),
+                    decimals:        $(this).data('decimals')
+                }, options);
+                
+                // how many times to update the value, and how much to increment the value on each update
+                var loops = Math.ceil(settings.speed / settings.refreshInterval),
+                    increment = (settings.to - settings.from) / loops;
+                
+                // references & variables that will change with each update
+                var self = this,
+                    $self = $(this),
+                    loopCount = 0,
+                    value = settings.from,
+                    data = $self.data('countTo') || {};
+                
+                $self.data('countTo', data);
+                
+                // if an existing interval can be found, clear it first
+                if (data.interval) {
+                    clearInterval(data.interval);
+                }
+                data.interval = setInterval(updateTimer, settings.refreshInterval);
+                
+                // initialize the element with the starting value
+                render(value);
+                
+                function updateTimer() {
+                    value += increment;
+                    loopCount++;
+                    
+                    render(value);
+                    
+                    if (typeof(settings.onUpdate) == 'function') {
+                        settings.onUpdate.call(self, value);
+                    }
+                    
+                    if (loopCount >= loops) {
+                        // remove the interval
+                        $self.removeData('countTo');
+                        clearInterval(data.interval);
+                        value = settings.to;
+                        
+                        if (typeof(settings.onComplete) == 'function') {
+                            settings.onComplete.call(self, value);
+                        }
+                    }
+                }
+                
+                function render(value) {
+                    var formattedValue = settings.formatter.call(self, value, settings);
+                    $self.html(formattedValue);
+                }
+            });
+        };
+        
+        $.fn.countTo.defaults = {
+            from: 0,               // the number the element should start at
+            to: 0,                 // the number the element should end at
+            speed: 1000,           // how long it should take to count between the target numbers
+            refreshInterval: 100,  // how often the element should be updated
+            decimals: 0,           // the number of decimal places to show
+            formatter: formatter,  // handler for formatting the value before rendering
+            onUpdate: null,        // callback method for every time the element is updated
+            onComplete: null       // callback method for when the element finishes updating
+        };
+        
+        function formatter(value, settings) {
+            return value.toFixed(settings.decimals);
+        }
+    }(jQuery));
+    
+    jQuery(function ($) {
+      // custom formatting example
+      $('.count-number').data('countToOptions', {
+        formatter: function (value, options) {
+          return value.toFixed(options.decimals).replace(/\B(?=(?:\d{3})+(?!\d))/g, ',');
+        }
+      });
+      
+      // start all the timers
+      $('.timer').each(count);  
+      
+      function count(options) {
+        var $this = $(this);
+        options = $.extend({}, options || {}, $this.data('countToOptions') || {});
+        $this.countTo(options);
+      }
+    });
+   </script>
+    
+</body>
+
+</html>
