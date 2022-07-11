@@ -35,3 +35,5 @@ trabajos :
         ejecutar : |
           echo Agrega otras acciones para construir,
           prueba de eco e implementa tu proyecto.
+
+runs-on: self-hosted
