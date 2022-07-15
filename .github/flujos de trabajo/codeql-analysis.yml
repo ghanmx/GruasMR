@@ -76,3 +76,17 @@ jobs:
     - name: Perform CodeQL Analysis
       uses: github/codeql-action/analyze@v2
     
+  - name: Use an in-repository QL pack (run queries in the my-queries directory)
+    uses: ./my-queries
+  - name: Use an external JavaScript QL pack (run queries from an external repo)
+    uses: octo-org/javascript-qlpack@main
+  - name: Use an external query (run a single query from an external QL pack)
+    uses: octo-org/python-qlpack/show_ifs.ql@main
+  - name: Use a query suite file (run queries from a query suite in this repo)
+    uses: ./codeql-qlpacks/complex-python-qlpack/rootAndBar.qls
+
+paths:
+  - src 
+paths-ignore: 
+  - src/node_modules
+  - '**/*.test.js'
